@@ -12,7 +12,7 @@ tags:
   - thoughts
   - portuguese
 header:
-  image: https://i.pinimg.com/564x/e1/ed/6a/e1ed6ab9ff5eb63ec676747d81f48368.jpg
+  image: https://i.pinimg.com/564x/44/2d/27/442d27103f6061f29b02716e39a33488.jpg
 ---
 Eu já não sei o que sou, aquele que tanto sorri não está feliz, porque Deus me fez assim? Uma pessoa quebrada, ao meu pai peço perdão, a minha mãe desejo prosperidade e aos meus amigos e irmãos desejo que seus sonhos sejam concretizados. 
 Sinto muita raiva, sem sentir, estou cansado de existir, sentir e sorrir; e quem dera fosse tão fácil estar a essa margem do absurdo. 
