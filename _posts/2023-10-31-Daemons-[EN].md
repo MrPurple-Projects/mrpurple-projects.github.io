@@ -12,7 +12,7 @@ tags:
   - thoughts
   - English
 header:
-  image: https://i.pinimg.com/564x/e1/ed/6a/e1ed6ab9ff5eb63ec676747d81f48368.jpg
+  image: https://i.pinimg.com/564x/44/2d/27/442d27103f6061f29b02716e39a33488.jpg
 ---
 I no longer know what I am, the one who smiles so much is not happy, why did God make me like this? A broken person, I ask my father for forgiveness, my mother I wish prosperity and my friends and brothers I wish their dreams come true.
 I feel a lot of anger, without feeling it, I'm tired of existing, feeling and smiling; and if only it were so easy to be on this edge of absurdity.
