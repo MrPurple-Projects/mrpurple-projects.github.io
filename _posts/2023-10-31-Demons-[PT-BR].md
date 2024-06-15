@@ -1,6 +1,7 @@
 ---
 title: "Daemons [PT-BR]"
 date: 2023-10-31T01:32:12-03:00
+comments: true
 categories:
   - blog
   - thoughts
